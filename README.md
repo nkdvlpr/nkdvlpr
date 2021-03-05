@@ -5,5 +5,5 @@ Passou-se alguns anos e eu ouvi falar de uma linguagem chamada **JavaScript**, a
 
 ### **O conhecimento é o caminho para a liberdade** 👨‍🚒
 
-🚀 - Java and JavaScript Developer
-🍕 - Pizza it's my favorite food
+- 🚀 Java and JavaScript Developer
+- 🍕 Pizza it's my favorite food
